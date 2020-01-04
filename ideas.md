@@ -5,3 +5,4 @@
   * a blog (like https://vitalik.ca/, or https://blog.jessfraz.com/)
   * a product one pager/executive summary
   * documentation (just use sphynx? docusaurous?)
+* Some tool to help keep permalinks permanent
