@@ -4,3 +4,4 @@
 * a static site generators each meniacally focused on a single simple common type of site
   * a blog (like vitalik.ca, or jessie frazelle's)
   * a product one pager/executive summary
+  * documentation (just use sphynx?)
