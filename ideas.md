@@ -9,4 +9,4 @@
 * Industry focused data warehousing
   * Why should every company build their own warehouse?
 * Analytics like GA. Decentralized? Agent centric? Marketplace that empowers the user?
-* Whitelabel Crypto Custody solutions
+* Whitelabel/Headless Crypto Custody solutions
