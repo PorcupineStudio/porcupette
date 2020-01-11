@@ -10,3 +10,11 @@
   * Why should every company build their own warehouse?
 * Analytics like GA. Decentralized? Agent centric? Marketplace that empowers the user?
 * Whitelabel/Headless Crypto Custody solutions
+
+* Tools for hobbyists, lowering the finantial, skill, and facilities barrier to starting hobbies
+  * Make it possible to do in a rented appartment
+  * Electric guitar/other instrument making
+  * Machining/Woodwoorking
+  * Ceramics
+  * Chemistry
+  * Electronic Music
