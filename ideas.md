@@ -18,3 +18,5 @@
   * Ceramics
   * Chemistry
   * Electronic Music
+  
+* command line code //TODO harvester and manager
