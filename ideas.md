@@ -20,3 +20,7 @@
   * Electronic Music
   
 * command line code //TODO harvester and manager
+
+* Decentralized cloud and home infrastructure system
+  * Personal sharable cloud infrastructure
+  * Everyone contributes to everyone's cloud infrastructure
